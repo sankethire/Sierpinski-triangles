@@ -15,4 +15,4 @@ where n is triangle size factor in the power of 2 and is greater than equal to 4
 32
 4
 ```
-
+Try with various values of i in between (1,log<sub>2</sub>(n))
