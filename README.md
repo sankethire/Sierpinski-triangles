@@ -13,7 +13,6 @@ where n is triangle size factor in the power of 2 and is greater than equal to 4
 #### For example:
       ```
       32
-     
       4
       ```
 
