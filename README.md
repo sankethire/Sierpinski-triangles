@@ -10,9 +10,9 @@ $ python src/sierpinski.py
 After entering the above command program will ask for two values n and i. Enter those two values one by one.
 where n is triangle size factor in the power of 2 and is greater than equal to 4 and,
       i is number of iterations to form the recursive Sierpinski triangles and is between (1,log<sub>2</sub>(n)) both                 inclusive.
-#### For example:
-      ```
-      32
-      4
-      ```
+#### For example:      
+```
+32
+4
+```
 
